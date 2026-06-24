@@ -1,0 +1,16 @@
+	I am still learning how to write effective WHERE
+    clauses, especially when combining multiple conditions 
+    and SQL functions. Because of this, I find the AND
+    operator particularly useful for organizing conditions
+    and filtering data more accurately. In times of lecture
+    and doing an activity having a pair humbled me and made
+    me realize that I still have a lot to learn about SQL.
+    At the same time, working with my others helped me
+    identify errors and discover new ways to structure
+    queries. While SQL filtering is more complex and
+    requires careful attention to avoid mistakes, Excel
+    currently feels more natural and easier for me to use.
+    As I continue improving my SQL skills, one business
+    question I would like to answer is "Who made a purchase
+    exactly on their birthday?"
+
